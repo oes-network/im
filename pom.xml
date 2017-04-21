@@ -15,8 +15,8 @@
     </properties>
 
     <modules>
-        <module>server</module>
-        <module>client</module>
+        <module>im-server</module>
+        <module>im-client</module>
     </modules>
 
     <dependencies>
